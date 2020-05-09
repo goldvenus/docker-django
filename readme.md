@@ -19,15 +19,6 @@ In the [**`Dockerfile`**](https://github.com/ruddra/docker-django/blob/master/co
 
 Checkout the [commands](#commands) section for more usage.
 
-## Preview
-A default Django project resides in `src` directory. So, when you start the project, you will see the following screen in `8000` port:
-
-![Demo One](https://github.com/ruddra/blog-images/raw/master/Demo%201.png)
-
-Also when you access the django container log via `make log-web`, you will see the following:
-
-![Demo Two](https://github.com/ruddra/blog-images/raw/master/Demo%202.png)
-
 ## Commands
 To use this project, run this commands:
 
